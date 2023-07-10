@@ -16,7 +16,7 @@ const Game = () => {
       const timeout = setTimeout(aiMakeMove, 1000);
       return () => clearTimeout(timeout);
     }
-  }, [playerTurn]);
+  },);
 
   const aiMakeMove = () => {
     let matchesToTake = 0;
