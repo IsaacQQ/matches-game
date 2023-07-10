@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matches-pile/static/css/main.b5320759.css",
+    "main.js": "/matches-pile/static/js/main.e85e0481.js",
+    "static/media/AdobeStock_63825064.jpeg": "/matches-pile/static/media/AdobeStock_63825064.20f5db73e77fa0d9ec71.jpeg",
+    "static/media/6-2-matches-transparent.png": "/matches-pile/static/media/6-2-matches-transparent.5c3cfcb17b29b33caa00.png",
+    "index.html": "/matches-pile/index.html",
+    "main.b5320759.css.map": "/matches-pile/static/css/main.b5320759.css.map",
+    "main.e85e0481.js.map": "/matches-pile/static/js/main.e85e0481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.e85e0481.js"
+  ]
+}
